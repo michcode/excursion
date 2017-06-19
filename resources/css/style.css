@@ -6,25 +6,25 @@ body{
 }
 
 h1{
-  font-size:50px
+  font-size:50px;
+  font-weight: normal;
 }
 
 h3{
-  /*font-weight: 300;*/
+  font-weight: 300;
   font-size: 42px;
 }
 
-p{
+a{
   color: Aquamarine;
   font-size: 16px;
 }
 
-#guide p{
+p{
   font-size: 21px;
   color:Gray;
 }
 
-#footer p{
+#footer{
   text-align: right;
-  color:Gray;
 }
